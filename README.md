@@ -1,6 +1,6 @@
 # StereoImaging
 ### Problem statement:
-	Given two images forming a stereo pair, each capturing different reflective markers, the goal is to detect these reflective markers in the 2D images and determine their 3D positions in the real world. The reflective markers may vary in shape, size, and position. For this assignment, the objective is to calculate the 3D position of only the marked reflector.
+Given two images forming a stereo pair, each capturing different reflective markers, the goal is to detect these reflective markers in the 2D images and determine their 3D positions in the real world. The reflective markers may vary in shape, size, and position. For this assignment, the objective is to calculate the 3D position of only the marked reflector.
  
 #### Input:
   1. Two images of same setup with different view angles.
